@@ -11,10 +11,10 @@ import ChooseUs from "./ChooseUs/ChooseUs";
 import ExtraOne from "./ExtraOne/ExtraOne";
 import ExtraTwo from "./ExtraTwo/ExtraTwo";
 
-function Home(){
-    return(
-      <>
-        <div className="hero_area">
+function Home() {
+  return (
+    <>
+      <div className="hero_area">
         <div className="hero_bg_box">
           <img src="images/hero-bg.png" alt />
         </div>
@@ -68,14 +68,14 @@ function Home(){
                     <div className="col-md-7">
                       <div className="detail-box">
                         <h1>
-                          WE PROVIDE BEST AIR CONDITIONERS IN DUBAI
+                          SeemLess One Stop Billing Solution
                         </h1>
                         <p>
-                          Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                          Get The Billing Rounding App, Billing Dashboard, and Billing Services at 5% of your Monthly Collections.
                         </p>
                         <div className="btn-box">
-                        <a href="productlisting" className="btn1">
-                            Order Now
+                          <a href="productlisting" className="btn1">
+                            Book Appointment
                           </a>
                         </div>
                       </div>
@@ -89,14 +89,14 @@ function Home(){
                     <div className="col-md-7">
                       <div className="detail-box">
                         <h1>
-                          WE PROVIDE BEST AIR CONDITIONERS IN DUBAI
+                        Medical Billing Services for Providers
                         </h1>
                         <p>
-                          Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                        We offer top quality medical billing services to help increase your financial growth.
                         </p>
                         <div className="btn-box">
-                         <a href="productlisting" className="btn1">
-                            Order Now
+                          <a href="productlisting" className="btn1">
+                            Optimize Collections
                           </a>
                         </div>
                       </div>
@@ -110,14 +110,14 @@ function Home(){
                     <div className="col-md-7">
                       <div className="detail-box">
                         <h1>
-                        WE PROVIDE BEST AIR CONDITIONERS IN DUBAI
+                        Improve Efficiency with Robotic Process Automation
                         </h1>
                         <p>
-                          Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                        Integrate technology to automate repetitive tasks in billing and coding process.
                         </p>
                         <div className="btn-box">
-                         <a href="productlisting" className="btn1">
-                            Order Now
+                          <a href="productlisting" className="btn1">
+                            Learn More
                           </a>
                         </div>
                       </div>
@@ -137,21 +137,21 @@ function Home(){
 
         {/* end slider section */}
       </div>
-      
-      <Department/>
-      <About/>
-      <Services/>
-      <OurRecord/>
-<ChooseUs/>
-<ExtraOne/>
-<ExtraTwo/>
-      <Doctors/>
-      
-      {/* <Blogs/> */}
-      <Contact/>
-      <Client/>
-      </>
 
-    )
+      <Department />
+      <About />
+      <Services />
+      <OurRecord />
+      <ChooseUs />
+      <ExtraOne />
+      <ExtraTwo />
+      <Doctors />
+
+      {/* <Blogs/> */}
+      <Contact />
+      <Client />
+    </>
+
+  )
 }
 export default Home

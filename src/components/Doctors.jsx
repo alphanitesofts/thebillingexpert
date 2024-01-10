@@ -34,10 +34,10 @@ function Doctors(){
                     </a>
                   </div>
                   <h5>
-                    Elina Josh
+                  Dr. Anthony
                   </h5>
                   <h6 className>
-                    Doctor
+                  National Medical Labs
                   </h6>
                 </div>
               </div>
@@ -63,10 +63,10 @@ function Doctors(){
                     </a>
                   </div>
                   <h5>
-                    Adam View
+                  Dr. Richard
                   </h5>
                   <h6 className>
-                    Doctor
+                  Laboratory Manager.
                   </h6>
                 </div>
               </div>
@@ -92,10 +92,10 @@ function Doctors(){
                     </a>
                   </div>
                   <h5>
-                    Mia Mike
+                  Dr. Susan
                   </h5>
                   <h6 className>
-                    Doctor
+                  Laboratory Manager.
                   </h6>
                 </div>
               </div>
