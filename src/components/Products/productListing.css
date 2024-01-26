@@ -123,7 +123,7 @@
 .key-feature-box .key-feature-box-img {
   width: 18%;
   text-align: center;
-  border: 1px solid #0dcaf0;
+  border: 1px solid #12AD2B;
   border-radius: 5px;
   padding: 10px;
   max-width: 55px;
@@ -193,8 +193,8 @@
   padding-left: 4rem;
 }
 .product-buttons .btn-box:hover {
-  background-color: #0dcaf0;
-  border: 1px solid #0dcaf0;
+  background-color: #12AD2B;
+  border: 1px solid #12AD2B;
 }
 .product-buttons .btn-box img {
   margin-right: 20px;
@@ -250,7 +250,7 @@
   transform: translate(0) !important;
 }
 .thumbnails .splide__slide.is-active {
-  border: 1px solid #0dcaf0 !important;
+  border: 1px solid #12AD2B !important;
   display: flex;
   align-items: center;
 }
@@ -275,7 +275,7 @@
 }
 .btn-amazon a:hover,
 .online-col a {
-  background-color: #0dcaf0;
+  background-color: #12AD2B;
 }
 .btn-amazon a > h6 {
   text-align: left;
@@ -293,7 +293,7 @@
 .btn-amazon a > .fa {
   font-size: 20px;
   padding-left: 0.5rem;
-  color: #0dcaf0;
+  color: #12AD2B;
 }
 
 .product-spec .nav {
@@ -312,7 +312,7 @@
   margin-left: 0;
 }
 .product-spec .nav-tabs .nav-link.active {
-  border-bottom: 4px solid #0dcaf0;
+  border-bottom: 4px solid #12AD2B;
   color: #000;
 }
 .specification-section h4 {
@@ -343,7 +343,7 @@
   padding-left: 1rem;
 }
 .col-keyout li::marker {
-  color: #0dcaf0;
+  color: #12AD2B;
 }
 .footer-contc-100,
 .footer-contc-50,
@@ -413,7 +413,7 @@
   padding-bottom: 0.5rem;
 }
 .key-feature-des ul li::marker {
-  color: #0dcaf0;
+  color: #12AD2B;
 }
 .product-descrptions .conditions {
   width: 70%;
@@ -422,7 +422,7 @@
 }
 .btn-where {
   color: #fff;
-  background-color: #0dcaf0;
+  background-color: #12AD2B;
   padding: 1rem 2rem;
   text-align: center;
   width: 40%;

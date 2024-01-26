@@ -8,10 +8,8 @@ function NavBar() {
     <header className="header_section " style={{ marginTop: -20 }}>
       <div className="container">
         <nav className="navbar navbar-expand-lg custom_nav-container ">
-          <a className="navbar-brand" href="/">
-            <span>
-              The Billing Expert
-            </span>
+          <a className="navbar-brand p-0 m-0" href="/">
+              <img src="/images/_BILLING EXPERT BG.png" style={{height:"90px", width:"130px"}}/>
           </a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className> </span>
@@ -26,7 +24,7 @@ function NavBar() {
                       <div className="col-md-5">
                         <ul style={{ listStyle: "none" }}>
                           <li className="mt-2">
-                            <Link to='/' className="d-flex" >
+                            <Link to='/aboratory-billing' className="d-flex" >
                               <img src="/images/laboratory-billing-service.png" style={{ width: "40px", height: "40px" }} alt="img" className="img-fluid " />
                               <div className="ml-2 text-dark" >
                                 <h5>Laboratory Billing Services</h5>
@@ -160,9 +158,9 @@ function NavBar() {
                 </ul>
               </li>
 
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link className="nav-link" to="specialities"> Specialities</Link>
-              </li>
+              </li> */}
               {/* <li className="nav-item">
                 <Link className="nav-link" to="departments">Hot</Link>
               </li> */}
