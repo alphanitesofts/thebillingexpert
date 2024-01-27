@@ -30,7 +30,7 @@ const AboratoryBilling = () => {
                                                 </p>
                                                 <div className="btn-box">
                                                     <a href="#" className="btn btn-success">
-                                                        Book Appointment
+                                                        Schedule Demo
                                                     </a>
                                                 </div>
                                             </div>
